@@ -1,0 +1,6 @@
+framework module XMX_NetWorking {
+  umbrella header "XMX_NetWorking-umbrella.h"
+
+  export *
+  module * { export * }
+}

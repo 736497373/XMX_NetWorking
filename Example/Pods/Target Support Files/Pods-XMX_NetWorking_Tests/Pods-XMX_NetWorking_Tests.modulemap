@@ -1,0 +1,6 @@
+framework module Pods_XMX_NetWorking_Tests {
+  umbrella header "Pods-XMX_NetWorking_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
